@@ -51,7 +51,7 @@ function SecondState(){
                     </Table>
                  </TableContainer>
 
-                 <Button onClick={myFun} color="inherit" variant="outlined">Change</Button>
+                 <Button onClick={myFun} color="primary" variant="contained">Change</Button>
         </React.Fragment>
     )
 }
